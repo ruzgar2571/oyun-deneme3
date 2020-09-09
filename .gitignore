@@ -1,2 +1,8 @@
-*.rbc
-*.fyc
+int sayi1=10,
+long sayi2=25000;
+float sayi3=0.1f;
+Dauble sati4=0.523;
+bool var= true;
+string metin="merhaba ben rüzgar";
+char karakter='sabziro';
+DataTime tarih=DataTime now;
